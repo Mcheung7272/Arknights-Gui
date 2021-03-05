@@ -4,7 +4,7 @@ I created the gui with Tkinter.
 ## Usage
 Relatively straightforward, the gui takes in the name of an operator and displays the necessary materials needed for each elite transformation. 
 
-![GUI display](https://github.com/Mcheung7272/Arknights-Materials-Gui/blob/master/guiDisplay.png?raw=true "Gui Display")
+![GUI display](https://github.com/Mcheung7272/Arknights-Materials-Gui/blob/master/display.png?raw=true "Gui Display")
 
 ![GUI output](https://github.com/Mcheung7272/Arknights-Materials-Gui/blob/master/outputDisplay.png?raw=true "Gui Output")
 
