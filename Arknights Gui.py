@@ -106,7 +106,7 @@ def resource_path(relative_path):
     except Exception:
         base_path = os.path.abspath(".")
 
-    return os.path.join('\\Users\\Matthew\\Desktop\\guuuuee\\Elite Mats Ark', 'Elite Mats Ark')
+    return os.path.join('path', 'Elite Mats Ark')
 
 window.bind("<Return>", keypress)
 window.mainloop()
