@@ -9,4 +9,4 @@ Relatively straightforward, the gui takes in the name of an operator and display
 ![GUI output](https://github.com/Mcheung7272/Arknights-Materials-Gui/blob/master/outputDisplay.png?raw=true "Gui Output")
 
 ## Contributing
-I made this for personal use and don't really expect any pull requests but if someone does find this useful and wants to contribue, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+I made this for personal use and don't really expect any pull requests but if someone does find this useful and wants to contribute, pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
